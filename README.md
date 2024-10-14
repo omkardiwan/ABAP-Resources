@@ -2,7 +2,7 @@
 
 ABAP Resources for reference 
 
-https://learning.sap.com/learning-journeys/acquire-core-abap-skills
+#https://learning.sap.com/learning-journeys/acquire-core-abap-skills
 https://github.com/SAP-samples/abap-cheat-sheets
 https://www.cadaxo.com/category/high-class-development/
 ( German)
@@ -29,3 +29,4 @@ https://youtube.com/playlist?list=PLX8aMl9wthorcjRTaTM-86GTPHOgzNkXS&feature=sha
 https://youtube.com/@learn_today?feature=shared
 ( English)
 https://youtube.com/@sivakonderu.sapabap?feature=shared
+https://youtube.com/@sapdevs?feature=shared
